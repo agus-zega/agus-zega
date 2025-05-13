@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello World! I'm Aguspintar Zega 👋
+![Aguspintar Zega](img/banner.jpg)
 
 <!--
 **agus-zega/agus-zega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on @WPU **Course**
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
+- 😂❤️😍
+
+![Burung Happy](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmIxZnVtNmtpNGRoMDYwNmxqZHEzeXJsZzRsbWZkN3FoNzJ5aG9taCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUHNdrm3vk7MoyUsCO/giphy.gif)
